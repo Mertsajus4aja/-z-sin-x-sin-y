@@ -1,6 +1,6 @@
 # -z-sin-x-sin-y
 экстремумы двумерной функции z = sin(x) * sin(y
-
+[загруженное](https://github.com/Mertsajus4aja/-z-sin-x-sin-y/assets/112537979/b537170f-bcf5-4ac1-af68-a8666c15d214)
 from mpl_toolkits.mplot3d import Axes3D
 
 import numpy as np
@@ -160,7 +160,7 @@ def Min_Max(fun):
  
  ax.scatter(xval[local_minx], yval[local_miny], zgrid[local_minx, local_miny], color='red', s=1000, marker='o')
  
- ax.scatter(xval[global_maxx], yval[global_maxy], zgrid[global_maxx,global_maxy], c![загруженное](https://github.com/Mertsajus4aja/-z-sin-x-sin-y/assets/112537979/b537170f-bcf5-4ac1-af68-a8666c15d214)
+ ax.scatter(xval[global_maxx], yval[global_maxy], zgrid[global_maxx,global_maxy], c!
 olor='blue', s=2000, marker='o')
 
  ax.scatter(xval[global_minx], yval[global_miny], zgrid[global_minx,global_miny], color='black', s=2000, marker='o')

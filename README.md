@@ -1,7 +1,8 @@
 # -z-sin-x-sin-y
 экстремумы двумерной функции z = sin(x) * sin(y)
+![загруженное](https://github.com/Mertsajus4aja/-z-sin-x-sin-y/assets/112537979/d18f02a4-4378-46ff-8302-e44cf5313e8e)
 
-[загруженное](https://github.com/Mertsajus4aja/-z-sin-x-sin-y/assets/112537979/b537170f-bcf5-4ac1-af68-a8666c15d214)
+
 
 from mpl_toolkits.mplot3d import Axes3D
 
